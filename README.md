@@ -1,8 +1,5 @@
 # ConvNet-Prostate
-Neural Networks for Prostate Cancer Diagnosis
-
-![alt text](https://drive.google.com/file/d/0B5x97Ycd-GeLMmE1dlZDbTZPXzA/view?usp=sharing "Logo")
-
+## Neural Networks for Prostate Cancer Diagnosis
 
 This project is an open source prototype of an application for Prostate Cancer Carcinoma diagnosis.
 
@@ -13,7 +10,7 @@ The other model for simple cancer and non cancer differentiation.
 # Results
 ---------
 
-- ***For four malignancy levels, the accuracy is 51% compared with a random guess of 25%. ***
-- ***For non cancer and cancer diagnosis, the accuracy is 90%.***
+- **For four malignancy levels, the accuracy is 51% compared with a random guess of 25%.**
+- **For non cancer and cancer diagnosis, the accuracy is 90%.**
 
 ConvNet-Prostate is open sourced for transparency and academia; however, the data used is propietary.
