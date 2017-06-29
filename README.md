@@ -7,10 +7,10 @@ There are currently two models, one for four different malignancy levels of pros
 
 The other model for simple cancer and non cancer differentiation.
 
-Results:
+# Results
 ---------
 
-For four malignancy levels, the accuracy is 51% compared with a random guess of 25%.
-For non cancer and cancer diagnosis, the accuracy is 90%.
+--- ***For four malignancy levels, the accuracy is 51% compared with a random guess of 25%.
+--- For non cancer and cancer diagnosis, the accuracy is 90%.***
 
 ConvNet-Prostate is open sourced for transparency and academia; however, the data used is propietary.
