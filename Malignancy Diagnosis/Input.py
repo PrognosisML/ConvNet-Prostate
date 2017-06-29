@@ -10,24 +10,6 @@ from six.moves import xrange
 
 NUM_CLASSES = 4
 
-"""
-This is a model based on the CIFAR10 Model.
-The general structure of the program and a few functions are
-borrowed from Tensorflow example of the CIFAR10 model.
-
-https://github.com/tensorflow/tensorflow/tree/r0.7/tensorflow/models/image/cifar10/
-
-As quoted:
-
-"If you are now interested in developing and training your own image classification
-system, we recommend forking this tutorial and replacing components to address your
- image classification problem."
-
-Source:
-https://www.tensorflow.org/tutorials/deep_cnn/
-
-"""
-
 def read_data(filename_queue):
   class Record(object):
     pass
