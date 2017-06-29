@@ -1,7 +1,6 @@
 # ConvNet-Prostate
-[logo]: https://github.com/PrognosisML/ConvNet-Prostate/blob/master/logo.png "Logo"
 ## Neural Networks for Prostate Cancer Diagnosis
-
+[logo]: https://github.com/PrognosisML/ConvNet-Prostate/blob/master/logo.png "Logo"
 This project is an open source prototype of an application for Prostate Cancer Carcinoma diagnosis.
 
 There are currently two models, one for four different malignancy levels of prostate cancer: Gleason 3 Non Cribiform, Gleason 4 Cribiform, Gleason 4 Non Cribiform, and Normal Prostate.
