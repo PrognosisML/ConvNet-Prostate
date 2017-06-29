@@ -15,16 +15,17 @@ The following command will start the training process:
 
 First get to the directory where the code is stored:
 ```
-python main.py
+$Directory python main.py
 ```
 Once the training sequence is completed: there is an option of 
 
 ```
-python retrain.py
+$Directory python retrain.py
 ```
 or
 ```
-python eval.py```
+$Directory python eval.py
+```
 
 ConvNet Prostate stores training image data in a very specific way. See the the CIFAR10 Data format for more information.
 If you wish to change the image size, go into Input.py and change:
