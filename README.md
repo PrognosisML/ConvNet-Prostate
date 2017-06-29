@@ -1,4 +1,5 @@
 # ConvNet-Prostate
+[logo]: https://github.com/PrognosisML/ConvNet-Prostate/blob/master/logo.png "Logo"
 ## Neural Networks for Prostate Cancer Diagnosis
 
 This project is an open source prototype of an application for Prostate Cancer Carcinoma diagnosis.
